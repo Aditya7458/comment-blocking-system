@@ -82,7 +82,7 @@ document.addEventListener("submit", e => {
     else {
         userdetailsdata.users.push(newaccount)
         alert("Success: your account has been created")
-        window.location="/log-in.html"
+        window.location="comment-blocking-system/log-in.html"
     }
     window.localStorage.setItem("userdetailsStorage", JSON.stringify(userdetailsdata))
 });

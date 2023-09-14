@@ -33,5 +33,3 @@ I stored them in browser LocalStorage and SessionStorage.
 How this blacklisting work?
 An array of offensive word is created.
 if offensive word array includes user comment then blacklisting function  run and comment will fail to post.
-
-Link to download application :- https://drive.google.com/file/d/1IG8cfK5vzO2GiMQO4rdA-zZfN3nC8sQ5/view
